@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=fatihCetiner&show_icons=true&theme=tokyonight)
 
+![Github stats 1](https://github-readme-stats.vercel.app/api/top-langs/?username={fatihCetiner})
+
