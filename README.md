@@ -18,7 +18,7 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=fatihCetiner&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihCetiner&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihCetiner&layout=compact)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihCetiner&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
