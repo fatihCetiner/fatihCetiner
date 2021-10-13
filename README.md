@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on mobile app development.
 - 🌱 I’m currently learning Java and Kotlin
 - 💬 Ask me about developing apps
