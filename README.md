@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link)
 
 
-https://github-readme-stats.vercel.app/api?username={fatihCetiner}
+![Github stats 1] (https://github-readme-stats.vercel.app/api?username={fatihCetiner})
 
 https://github-readme-stats.vercel.app/api/top-langs/?username={fatihCetiner}
 
