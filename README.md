@@ -6,7 +6,7 @@
 - 💬 Ask me about developing apps
 - 📫 How to reach me: Linkedin Fatih Furkan Çetiner
 - 😄 Pronouns: Her
-// - ⚡ Fun fact: When I was kid, I didn't mark any answer by saying I already knew the answer in the exam.
+- ⚡ Fun fact: Null !
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link)](link)
