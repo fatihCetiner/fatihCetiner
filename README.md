@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Java and Kotlin
 - 💬 Ask me about developing apps
 - 📫 How to reach me: Linkedin Fatih Furkan Çetiner
-- 😄 Pronouns: Her
+- 😄 Pronouns: Him
 - ⚡ Fun fact: Null !!!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/fatihCetiner)
