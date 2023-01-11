@@ -16,7 +16,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/fatihCetiner/fatihCetiner)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihCetiner&layout=compact)](https://github.com/fatihCetiner/fatihCetiner)
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=fatihCetiner&show_icons=true&theme=tokyonight)
 
