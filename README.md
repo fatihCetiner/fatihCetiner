@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on mobile app development.
-- 🌱 I’m currently learning Java and Kotlin
+- 🌱 I’m currently learning Kotlin
 - 💬 Ask me about developing apps
 - 📫 How to reach me: Linkedin Fatih Furkan Çetiner
 - 😄 Pronouns: Him
