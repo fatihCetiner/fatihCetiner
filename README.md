@@ -6,7 +6,7 @@
 - 💬 Ask me about developing apps
 - 📫 How to reach me: Linkedin Fatih Furkan Çetiner
 - 😄 Pronouns: Him
-- ⚡ Fun fact: Null !!!
+- ⚡ Fun fact: I like ios designs more 😄
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/fatihCetiner)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/fatih-furkan-%C3%A7etiner-174b3218a/)
