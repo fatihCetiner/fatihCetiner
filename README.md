@@ -18,7 +18,7 @@ Below are some of the technologies and tools I use frequently:
 ## 🌱 Learning
 - I'm continuously learning and exploring new advancements in the Android ecosystem.
 
-## Projects and Works 💼
+## 💼 Projects and Works 
 - 📱 [RickAndMorty](https://github.com/fatihCetiner/RickAndMorty): Characters App developed using the Rick And Morty api.
 - 📱 [Compose Crypto](https://github.com/fatihCetiner/ComposeCrypto): Crypto listing application developed using the Compose library.
 - 📱 [Android Testing](https://github.com/fatihCetiner/AndroidTesting): Application that we write test on android using android test libraries.
@@ -27,7 +27,7 @@ Below are some of the technologies and tools I use frequently:
 - Android app development
 - Kotlin programming
 
-## Contact 📫
+## 📫 Contact 
 Don't hesitate to contact me:
 - Linkedin: [Fatih Furkan Çetiner](https://www.linkedin.com/in/fatih-furkan-%C3%A7etiner-174b3218a/)
 - E-mail: f-cetiner99@hotmail.com
